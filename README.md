@@ -1,5 +1,12 @@
 # Sistema de Cadastro Dr Peanut
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-v5.2-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-v3.1-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-Design_Tool-red?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" />
+</p>
+
 🌐 Projeto Website Institucional - Dr. Peanut
 
 Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a implementação de um website institucional para a marca Dr. Peanut. A plataforma contempla funcionalidades básicas de gestão, como:
