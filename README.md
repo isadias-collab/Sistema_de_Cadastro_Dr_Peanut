@@ -10,9 +10,18 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 
 ✅ Listagem de produtos disponíveis
 
+____________________________________________________
+
+## 📦 Escopo da Sprint 1
+
+- Criar protótipo funcional no Figma.
+- Desenvolver páginas principais: Home, Produtos, Contato.
+- Implementar funcionalidades de cadastro e listagem de produtos e fornecedores.
+- Garantir responsividade e boa apresentação visual.
+
 _________________________________________________________________________________________
 
-🛠️ Planejamento e Metodologia
+## 🛠️ Planejamento e Metodologia
 
 O desenvolvimento seguiu princípios da metodologia ágil, com divisão de tarefas em etapas.
 
@@ -28,7 +37,7 @@ ________________________________________________________________________________
 
  ______________________________________________________________
 
-👨‍💻 Equipe de Desenvolvimento
+## 👨‍💻 Equipe de Desenvolvimento
 
 Responsável por:
 
@@ -38,7 +47,7 @@ Construir um protótipo funcional inicial
 
 ___________________________________________________________________________________________
 
-🎨 Equipe de Design
+## 🎨 Equipe de Design
 
 Responsável por:
 
@@ -50,7 +59,7 @@ A integração entre o protótipo e o código permitiu ciclos rápidos de revis�
 
 ______________________________________________________________________________
 
-💻 Tecnologias e Ferramentas Utilizadas
+## 💻 Tecnologias e Ferramentas Utilizadas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -82,7 +91,7 @@ Layout: Layout clean e moderno, com foco em imagens vibrantes dos produtos, seç
 
 _______________________________________________________________________
 
-✅ Critérios de Aceitação
+## ✅ Critérios de Aceitação
 
 Site totalmente responsivo em dispositivos móveis
 
