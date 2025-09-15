@@ -135,4 +135,14 @@ ___________________________________________________________________
 - Integração entre Design (Figma) e Front-end
 - Prática de versionamento com Git e GitHub
 
+_____________________________________________
+
+## 💬 Contato
+
+[![Email](https://img.shields.io/badge/Email-contato@code6.dev-E74E0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@code6.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2091234--5678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912345678)
+[![Telefone](https://img.shields.io/badge/Telefone-(11)%203456--7890-141414?style=for-the-badge&logo=phone&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Site-www.code6.dev-330072?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.code6.dev)
+
+
 
