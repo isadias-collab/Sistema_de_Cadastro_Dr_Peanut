@@ -1,4 +1,4 @@
-# Sistema_de_Cadastro_Dr_Peanut
+# Sistema de Cadastro Dr Peanut
 
 🌐 Projeto Website Institucional - Dr. Peanut
 
@@ -10,11 +10,13 @@ Este projeto tem como objetivo o desenvolvimento de um protótipo no Figma e a i
 
 ✅ Listagem de produtos disponíveis
 
-Além disso, o site também atua como um canal de comunicação e divulgação da marca, promovendo informações relevantes sobre serviços e produtos.
+_________________________________________________________________________________________
 
 🛠️ Planejamento e Metodologia
 
-O desenvolvimento seguiu princípios da metodologia ágil, com divisão de tarefas em etapas e equipes distintas:
+O desenvolvimento seguiu princípios da metodologia ágil, com divisão de tarefas em etapas.
+
+___________________________________________________________________________________________
 
 👨‍💻 Equipe de Desenvolvimento
 
@@ -23,6 +25,8 @@ Responsável por:
 Criar a estrutura e lógica do sistema
 
 Construir um protótipo funcional inicial
+
+___________________________________________________________________________________________
 
 🎨 Equipe de Design
 
@@ -34,7 +38,15 @@ Garantia de uma experiência intuitiva e coerente com a identidade da marca
 
 A integração entre o protótipo e o código permitiu ciclos rápidos de revisão e ajustes ao longo do processo.
 
+______________________________________________________________________________
+
 💻 Tecnologias e Ferramentas Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 HTML – Estruturação das páginas da aplicação
 
@@ -42,40 +54,24 @@ CSS – Estilização e responsividade do site
 
 Figma – Criação do protótipo visual
 
-📋 Requisitos do Projeto
-🎯 Requisitos de Negócio
-
-Apresentar o currículo, especializações e experiência do Dr. Peanut
-
-Divulgar informações sobre os tratamentos oferecidos
-
-Facilitar o agendamento de consultas (via formulário ou WhatsApp)
-
-Disponibilizar conteúdos informativos (blog, vídeos, artigos)
-
-Fortalecer a presença online e aumentar a confiança com os pacientes
-
-📦 Conteúdo Necessário
-
-Logotipo oficial da marca Dr. Peanut
-
-Fotos profissionais (consultório, atendimento, retratos)
-
-Informações de contato:
-
-Telefone
-
-WhatsApp
-
-Endereço
-
-E-mail
-
-Artigos para blog (caso a funcionalidade seja implementada)
+________________________________________________________________________
 
 🎨 Design e Identidade Visual
 
-Cores: A definir (ex: roxo, branco, laranja)
+🎯 Cores Oficiais da Marca Dr. Peanut
+Nome / Uso	HEX	RGB	CMYK	PANTONE
+Branco principal	#FFFFFF	RGB(255, 255, 255)	—	—
+Preto (texto / cor escura principal)	#141414	RGB(20, 20, 20)	CMYK(75, 65, 65, 80)	PANTONE BLACK C 
+Dr. Peanut
++1
+
+Laranja de destaque	#E74E0F	RGB(231, 78, 15)	CMYK(0, 80, 100, 0)	PANTONE ORANGE 021C 
+Dr. Peanut
++1
+
+Roxo tipográfico / complementar	#330072	RGB(51, 0, 114)	CMYK(98, 100, 22, 13)	PANTONE 2685C 
+Dr. Peanut
++1
 
 Tipografia: Fonte profissional e de fácil leitura
 
