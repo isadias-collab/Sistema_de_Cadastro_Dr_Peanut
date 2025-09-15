@@ -144,5 +144,16 @@ _____________________________________________
 [![Telefone](https://img.shields.io/badge/Telefone-(11)%203456--7890-141414?style=for-the-badge&logo=phone&logoColor=white)]()
 [![Website](https://img.shields.io/badge/Site-www.code6.dev-330072?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.code6.dev)
 
+___________________________________
+
+## 👥 Equipe
+
+| Nome           | Função               | Contato                      |
+|----------------|----------------------|------------------------------|
+| Ana Silva      | Desenvolvedora Front-end | [@anasilva](https://github.com/anasilva) |
+| João Pereira   | Designer UI/UX        | [@joaopereira](https://github.com/joaopereira) |
+| Carlos Souza   | Gerente de Projeto    | carlos@code6.dev             |
+
+
 
 
