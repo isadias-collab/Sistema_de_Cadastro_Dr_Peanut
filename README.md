@@ -1,16 +1,10 @@
-# Sistema de Cadastro Dr Peanut
+# 🥜 Sistema de Cadastro Dr Peanut
 
 <p align="center">
-  <!-- HTML5 - Roxo -->
+
   <img src="https://img.shields.io/badge/HTML5-v5.2-330072?style=for-the-badge&logo=html5&logoColor=white" />
-
-  <!-- CSS3 - Laranja -->
   <img src="https://img.shields.io/badge/CSS3-v3.1-E74E0F?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <!-- Figma - Roxo -->
   <img src="https://img.shields.io/badge/Figma-Protótipo-330072?style=for-the-badge&logo=figma&logoColor=white" />
-
-  <!-- Status - Fundo branco, texto roxo -->
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFFFFF?style=for-the-badge&logoColor=330072" />
 </p>
 
