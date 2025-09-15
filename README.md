@@ -84,14 +84,10 @@ Interface alinhada com o protótipo desenvolvido no Figma
 
 Facilidade de navegação e clareza na apresentação dos conteúdos
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+______________________________________________________________________
 
-## 📸 Demonstração
+## 📸 Protótipo
 
-![Preview do Site](assets/preview.png)
+<img width="852" height="637" alt="image" src="https://github.com/user-attachments/assets/01687353-08c8-4ac2-8f22-9191af52ad5c" />
 
-🔗 [Ver protótipo no Figma](https://figma.com/seu-link-aqui)
-🔗 [Acessar site publicado](https://seudominio.com) *(opcional)*
 
