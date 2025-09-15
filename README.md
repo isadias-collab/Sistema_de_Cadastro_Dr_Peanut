@@ -56,10 +56,6 @@ Figma – Criação do protótipo visual
 
 ________________________________________________________________________
 
-🎨 Design e Identidade Visual
-
-🎯 Cores Oficiais da Marca Dr. Peanut
-
 ## 🎨 Paleta de Cores Oficial — Dr. Peanut
 
 | Cor / Uso                              | Código HEX | RGB             | CMYK              |
