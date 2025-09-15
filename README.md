@@ -148,11 +148,17 @@ ___________________________________
 
 ## 👥 Equipe
 
-| Nome           | Função               | Contato                      |
-|----------------|----------------------|------------------------------|
-| Ana Silva      | Desenvolvedora Front-end | [@anasilva](https://github.com/anasilva) |
-| João Pereira   | Designer UI/UX        | [@joaopereira](https://github.com/joaopereira) |
-| Carlos Souza   | Gerente de Projeto    | carlos@code6.dev             |
+## 👥 Equipe
+
+| Nome              | Função         | Contato                                 |
+|-------------------|----------------|----------------------------------------|
+| Isabella D. Silva | Scrum Master   | isabella.d.silva7@aluno.senai.br       |
+| Ana Carolina | Desenvolvedor  | joao.exemplo@exemplo.com                |
+| Desenvolvedor 3    | Desenvolvedor  | (email a completar)                     |
+| Desenvolvedor 4    | Desenvolvedor  | (email a completar)                     |
+| Desenvolvedor 5    | Desenvolvedor  | (email a completar)                     |
+| Desenvolvedor 6    | Desenvolvedor  | (email a completar)                     |
+
 
 
 
