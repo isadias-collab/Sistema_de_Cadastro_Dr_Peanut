@@ -60,12 +60,14 @@ ________________________________________________________________________
 
 🎯 Cores Oficiais da Marca Dr. Peanut
 
-| Cor / Uso                                | Código HEX | Preview                                                         | RGB                | CMYK                 | PANTONE             |
-| ---------------------------------------- | ---------- | --------------------------------------------------------------- | ------------------ | -------------------- | ------------------- |
-| **Branco principal**                     | `#FFFFFF`  | ![#FFFFFF](https://via.placeholder.com/20/FFFFFF/000000?text=+) | `RGB(255,255,255)` | —                    | —                   |
-| **Preto (texto / cor escura principal)** | `#141414`  | ![#141414](https://via.placeholder.com/20/141414/FFFFFF?text=+) | `RGB(20,20,20)`    | `CMYK(75,65,65,80)`  | Pantone Black C     |
-| **Laranja de destaque**                  | `#E74E0F`  | ![#E74E0F](https://via.placeholder.com/20/E74E0F/FFFFFF?text=+) | `RGB(231,78,15)`   | `CMYK(0,80,100,0)`   | Pantone Orange 021C |
-| **Roxo complementar**                    | `#330072`  | ![#330072](https://via.placeholder.com/20/330072/FFFFFF?text=+) | `RGB(51,0,114)`    | `CMYK(98,100,22,13)` | Pantone 2685C       |
+## 🎨 Paleta de Cores Oficial — Dr. Peanut
+
+| Cor / Uso                              | Código HEX | RGB             | CMYK              |
+|----------------------------------------|------------|------------------|--------------------|
+| **Branco principal**                   | `#FFFFFF`  | `255, 255, 255`  | —                  |
+| **Preto (texto / cor escura principal)** | `#141414`  | `20, 20, 20`     | `75, 65, 65, 80`   |
+| **Laranja de destaque**               | `#E74E0F`  | `231, 78, 15`    | `0, 80, 100, 0`    |
+| **Roxo complementar**                 | `#330072`  | `51, 0, 114`     | `98, 100, 22, 13`  |
 
 
 Tipografia: Fonte profissional e de fácil leitura
