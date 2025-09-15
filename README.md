@@ -113,11 +113,10 @@ ___________________________________________________________________
 
 ## 🔗 Links do Protótipo no Figma
 
-💻 Versão para Desktop:
-Visualizar protótipo no Figma (Desktop)
+- 💻 **Versão para Desktop:**  
+  [Visualizar protótipo no Figma (Desktop)](https://www.figma.com/design/DeVtQDLZHbx14F7VIqXgtm/Protótipo-Dr-Penaut?node-id=5-2&t=QGAeVpKK44e7F0KJ-0)
 
-📱 Versão para Mobile:
-Visualizar protótipo no Figma (Mobile)
-
+- 📱 **Versão para Mobile:**  
+  [Visualizar protótipo no Figma (Mobile)](https://www.figma.com/design/nXUmpX0ut2QLGcmrGHqnV1/Untitled?node-id=0-1&p=f&t=g5QnDivhoapnCb1-0)
 
 
