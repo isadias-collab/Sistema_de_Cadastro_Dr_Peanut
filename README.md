@@ -150,14 +150,14 @@ ___________________________________
 
 ## 👥 Equipe
 
-| Nome              | Função         | Contato                                 |
-|-------------------|----------------|----------------------------------------|
-| Isabella D. Silva | Scrum Master   | isabella.d.silva7@aluno.senai.br       |
-| Ana Carolina | Desenvolvedor  | joao.exemplo@exemplo.com                |
-| Desenvolvedor 3    | Desenvolvedor  | (email a completar)                     |
-| Desenvolvedor 4    | Desenvolvedor  | (email a completar)                     |
-| Desenvolvedor 5    | Desenvolvedor  | (email a completar)                     |
-| Desenvolvedor 6    | Desenvolvedor  | (email a completar)                     |
+| Nome                          | Função        | Contato                                 |
+|-------------------------------|---------------|----------------------------------------|
+| Ana Carolina da Fonseca Souza  | Desenvolvedora| (email a completar)                     |
+| Evellyn Silva de Lima          | Desenvolvedora| (email a completar)                     |
+| Gustavo Henrique Ferreira Barreto | Desenvolvedor | (email a completar)                   |
+| Isabella D. Silva             | Scrum Master  | isabella.d.silva7@aluno.senai.br       |
+| Leonardo Alves Leão           | Desenvolvedor | (email a completar)                     |
+| Pedro de Oliveira             | Desenvolvedor | (email a completar)                     |
 
 
 
