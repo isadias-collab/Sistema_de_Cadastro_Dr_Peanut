@@ -66,9 +66,9 @@ ________________________________________________________________________
 | **Roxo complementar**                 | `#330072`  | `51, 0, 114`     | `98, 100, 22, 13`  |
 
 
-Tipografia: Fonte profissional e de fácil leitura
+Tipografia: Lalezar
 
-Layout: Limpo, moderno e intuitivo, com foco na experiência do usuário
+Layout: Layout clean e moderno, com foco em imagens vibrantes dos produtos, seções bem definidas.
 
 _______________________________________________________________________
 
@@ -88,6 +88,7 @@ ______________________________________________________________________
 
 ## 📸 Protótipo
 
-<img width="852" height="637" alt="image" src="https://github.com/user-attachments/assets/01687353-08c8-4ac2-8f22-9191af52ad5c" />
+<img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/b8ba741f-c29b-4a70-b47b-71c22d262cac" />
+
 
 
