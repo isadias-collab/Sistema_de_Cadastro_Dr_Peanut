@@ -84,3 +84,7 @@ Interface alinhada com o protótipo desenvolvido no Figma
 
 Facilidade de navegação e clareza na apresentação dos conteúdos
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
+
