@@ -18,6 +18,16 @@ O desenvolvimento seguiu princípios da metodologia ágil, com divisão de taref
 
 ___________________________________________________________________________________________
 
+## ✨ Funcionalidades Desenvolvidas
+
+- Cadastro de fornecedores  
+- Cadastro de produtos  
+- Listagem de produtos disponíveis  
+- Página institucional com informações da marca  
+- Canal de contato via formulário e WhatsApp
+
+ ______________________________________________________________
+
 👨‍💻 Equipe de Desenvolvimento
 
 Responsável por:
