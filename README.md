@@ -88,3 +88,10 @@ Facilidade de navegação e clareza na apresentação dos conteúdos
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 
+## 📸 Demonstração
+
+![Preview do Site](assets/preview.png)
+
+🔗 [Ver protótipo no Figma](https://figma.com/seu-link-aqui)
+🔗 [Acessar site publicado](https://seudominio.com) *(opcional)*
+
