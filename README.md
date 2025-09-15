@@ -70,6 +70,8 @@ Tipografia: Fonte profissional e de fácil leitura
 
 Layout: Limpo, moderno e intuitivo, com foco na experiência do usuário
 
+_______________________________________________________________________
+
 ✅ Critérios de Aceitação
 
 Site totalmente responsivo em dispositivos móveis
@@ -82,8 +84,3 @@ Interface alinhada com o protótipo desenvolvido no Figma
 
 Facilidade de navegação e clareza na apresentação dos conteúdos
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-</p>
