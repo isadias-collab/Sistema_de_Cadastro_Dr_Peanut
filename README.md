@@ -45,7 +45,8 @@ ________________________________________________________________________________
 
  ______________________________________________________________
 
-## 👨‍💻 Equipe de Desenvolvimento (Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
+## 👨‍💻 Equipe de Desenvolvimento 
+(Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
 
 Responsável por:
 
@@ -53,7 +54,8 @@ Criar a estrutura e lógica do sistema
 
 ___________________________________________________________________________________________
 
-## 🎨 Equipe de Design (Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
+## 🎨 Equipe de Design 
+(Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
 
 Responsável por:
 
@@ -147,7 +149,7 @@ ___________________________________
 | Nome                          | Função        | Contato                                 |
 |-------------------------------|---------------|----------------------------------------|
 | Ana Carolina da Fonseca Souza  | Desenvolvedora| ana.c.souza150@aluno.senai.br                   |
-| Evellyn Silva de Lima          | Desenvolvedora| (email a completar)                     |
+| Evellyn Silva de Lima          | Desenvolvedora| evellyn.s.lima6@aluno.senai.br                |
 | Gustavo Henrique Ferreira Barreto | Desenvolvedor | (email a completar)                   |
 | Isabella Dias da Silva             | Scrum Master  | isabella.d.silva7@aluno.senai.br       |
 | Leonardo Alves Leão           | Desenvolvedor | (email a completar)                     |
