@@ -123,7 +123,7 @@ ______________________________________________________________________
 - 📱 **Versão para Mobile:**  
   [Visualizar protótipo no Figma (Mobile)](https://www.figma.com/design/nXUmpX0ut2QLGcmrGHqnV1/Untitled?node-id=0-1&p=f&t=g5QnDivhoapnCb1-0)
 
-  _______________________________________________________________
+_______________________________________________________________
 
 ## 🧠 Aprendizados
 
