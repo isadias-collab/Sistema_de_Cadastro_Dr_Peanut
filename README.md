@@ -115,8 +115,6 @@ ______________________________________________________________________
 
 <img width="1056" height="788" alt="image" src="https://github.com/user-attachments/assets/b8ba741f-c29b-4a70-b47b-71c22d262cac" />
 
-___________________________________________________________________
-
 ## 🔗 Links do Protótipo no Figma
 
 - 💻 **Versão para Desktop:**  
