@@ -45,25 +45,21 @@ ________________________________________________________________________________
 
  ______________________________________________________________
 
-## 👨‍💻 Equipe de Desenvolvimento
+## 👨‍💻 Equipe de Desenvolvimento (Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
 
 Responsável por:
 
 Criar a estrutura e lógica do sistema
 
-Construir um protótipo funcional inicial
-
 ___________________________________________________________________________________________
 
-## 🎨 Equipe de Design
+## 🎨 Equipe de Design (Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
 
 Responsável por:
 
 Criação da interface visual no Figma
 
 Garantia de uma experiência intuitiva e coerente com a identidade da marca
-
-A integração entre o protótipo e o código permitiu ciclos rápidos de revisão e ajustes ao longo do processo.
 
 ______________________________________________________________________________
 
