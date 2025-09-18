@@ -148,9 +148,9 @@ ___________________________________
 |-------------------------------|---------------|----------------------------------------|
 | Ana Carolina da Fonseca Souza  | Desenvolvedora| ana.c.souza150@aluno.senai.br                   |
 | Evellyn Silva de Lima          | Desenvolvedora| evellyn.s.lima6@aluno.senai.br                |
-| Gustavo Henrique Ferreira Barreto | Desenvolvedor | (email a completar)                   |
+| Gustavo Henrique Ferreira Barreto | Desenvolvedor | gustavo.h.barreto6@aluno.senai.br              |
 | Isabella Dias da Silva             | Scrum Master  | isabella.d.silva7@aluno.senai.br       |
-| Leonardo Alves Leão           | Desenvolvedor | (email a completar)                     |
+| Leonardo Alves Leão           | Desenvolvedor | leonardo.a.leao@aluno.senai.br    |
 | Pedro de Oliveira             | Desenvolvedor | pedro.oliveira23@aluno.senai.br                  |
 
 
