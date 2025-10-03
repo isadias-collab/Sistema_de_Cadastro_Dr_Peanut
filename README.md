@@ -125,7 +125,7 @@ ______________________________________________________________________
 
 _______________________________________________________________
 
-##🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
 Desenvolvimento do banco de dados para a Dr. Peanut, com foco na organização e gerenciamento de informações de fornecedores e produtos.
 
