@@ -125,34 +125,20 @@ ______________________________________________________________________
 
 _______________________________________________________________
 
-## 🧠 Aprendizados
+## Banco de Dados
+Desenvolvimento do banco de dados para a Dr. Peanut, com foco na organização e gerenciamento de informações de fornecedores e produtos.
 
-- Planejamento com base em metodologias ágeis
-- Integração entre Design (Figma) e Front-end
-- Prática de versionamento com Git e GitHub
+A ideia é estruturar um sistema que permita:
 
-_____________________________________________
+➕ Cadastrar novos fornecedores e produtos;
 
-## 💬 Contato
+📝 Editar dados já existentes;
 
-[![Email](https://img.shields.io/badge/Email-contato@code6.dev-E74E0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@code6.dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2091234--5678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912345678)
-[![Telefone](https://img.shields.io/badge/Telefone-(11)%203456--7890-141414?style=for-the-badge&logo=phone&logoColor=white)]()
-[![Website](https://img.shields.io/badge/Site-www.code6.dev-330072?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.code6.dev)
+❌ Excluir registros;
 
-___________________________________
+👀 Listar de forma clara os itens e seus vínculos.
 
-## 👥 Equipe
-
-| Nome                          | Função        | Contato                                 |
-|-------------------------------|---------------|----------------------------------------|
-| Ana Carolina da Fonseca Souza  | Desenvolvedora| ana.c.souza150@aluno.senai.br                   |
-| Evellyn Silva de Lima          | Desenvolvedora| evellyn.s.lima6@aluno.senai.br                |
-| Gustavo Henrique Ferreira Barreto | Desenvolvedor | gustavo.h.barreto6@aluno.senai.br              |
-| Isabella Dias da Silva             | Scrum Master  | isabella.d.silva7@aluno.senai.br       |
-| Leonardo Alves Leão           | Desenvolvedor | leonardo.a.leao@aluno.senai.br    |
-| Pedro de Oliveira             | Desenvolvedor | pedro.oliveira23@aluno.senai.br                  |
-
+Com isso, será possível simular como uma empresa gerencia seu estoque.
 
 **Campos:**
 - 🆔 `ID (PK)` – Identificador único do produto  
@@ -195,11 +181,40 @@ ___________________________________
 - ✏️ Todo cadastro pode ser **editado ou excluído**  
 - 🔗 Cada **produto deve estar associado a um fornecedor**  
 - ✅ O sistema mantém **integridade referencial** entre tabelas  
-- 🖼️ Imagens ficam **vinculadas ao produto** e salvas em local apropriado  
+- 🖼️ Imagens ficam **vinculadas ao produto** e salvas em local apropriado
 
----
+_____________________________________________
 
-✨ **Pronto!** Agora você tem um sistema organizado e fácil de usar.  
+## 🧠 Aprendizados
+
+- Planejamento com base em metodologias ágeis
+- Integração entre Design (Figma) e Front-end
+- Prática de versionamento com Git e GitHub
+
+_____________________________________________
+
+## 💬 Contato
+
+[![Email](https://img.shields.io/badge/Email-contato@code6.dev-E74E0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@code6.dev)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(11)%2091234--5678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511912345678)
+[![Telefone](https://img.shields.io/badge/Telefone-(11)%203456--7890-141414?style=for-the-badge&logo=phone&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Site-www.code6.dev-330072?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.code6.dev)
+
+___________________________________
+
+## 👥 Equipe
+
+| Nome                          | Função        | Contato                                 |
+|-------------------------------|---------------|----------------------------------------|
+| Ana Carolina da Fonseca Souza  | Desenvolvedora| ana.c.souza150@aluno.senai.br                   |
+| Evellyn Silva de Lima          | Desenvolvedora| evellyn.s.lima6@aluno.senai.br                |
+| Gustavo Henrique Ferreira Barreto | Desenvolvedor | gustavo.h.barreto6@aluno.senai.br              |
+| Isabella Dias da Silva             | Scrum Master  | isabella.d.silva7@aluno.senai.br       |
+| Leonardo Alves Leão           | Desenvolvedor | leonardo.a.leao@aluno.senai.br    |
+| Pedro de Oliveira             | Desenvolvedor | pedro.oliveira23@aluno.senai.br                  |
+
+
+
 
 
 
