@@ -139,7 +139,8 @@ A ideia é estruturar um sistema que permita:
 
 ## 🏗️ 2. Estrutura do Sistema
 
-Usuário
+
+Usuário:
 
 Campos:
 
@@ -149,7 +150,8 @@ Campos:
 - 📞 `Telefone` – Contato telefônico  
 - 🔑 `Senha` – Credencial de acesso
 
-Cadastro de Fornecedor
+
+Cadastro de Fornecedor:
 
 Campos:
 
@@ -163,9 +165,10 @@ Campos:
 - 📝✏️ `Edição e Exclusão` – Permite atualizar e remover fornecedores e produtos vinculados  
 - 👤 `usuario_id (FK)` – Identificação do usuário responsável pelo cadastro  
   
-Cadastro de Produto
+Cadastro de Produto:
 
-**Campos:**
+
+Campos:
 - 🆔 `ID (PK)` – Identificador único do produto  
 - 🏷️ `Nome do Produto` – Nome do item  
 - 🔢 `Código (SKU)` – Código interno  
