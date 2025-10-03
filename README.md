@@ -154,6 +154,54 @@ ___________________________________
 | Pedro de Oliveira             | Desenvolvedor | pedro.oliveira23@aluno.senai.br                  |
 
 
+**Campos:**
+- 🆔 `ID (PK)` – Identificador único do produto  
+- 🏷️ `Nome do Produto` – Nome do item  
+- 🔢 `Código (SKU)` – Código interno  
+- 📖 `Descrição` – Detalhes do produto  
+- 📦 `Quantidade em Estoque` – Unidades disponíveis  
+- 💲 `Preço Unitário` – Valor por unidade  
+- 🖼️ `Imagens` – Arquivos visuais  
+- 🔗 `fornecedor_id (FK)` – Fornecedor responsável  
+
+**Funcionalidades:**
+- ➕ Inclusão  
+- 📝 Edição  
+- ❌ Exclusão  
+
+---
+
+### 📋 2.3 Listagem
+Área de visualização de **fornecedores e produtos**.  
+
+**Campos:**
+- 🆔 `ID (PK)` – Identificador único  
+- 🏷️ `Nome` – Produto ou fornecedor  
+- 📖 `Descrição` – Detalhes do item  
+- 📦 `Quantidade` – Estoque (produto)  
+- 💲 `Preço` – Valor (produto)  
+- 🖼️ `Imagens` – Visualização (produto)  
+- 🔗 `produtos_id (FK)` – Relaciona ao produto  
+- 🔗 `fornecedores_id (FK)` – Relaciona ao fornecedor  
+
+**Funcionalidades:**
+- 👀 Exibição de fornecedores e produtos  
+- 📝 Edição  
+- ❌ Exclusão  
+
+---
+
+## ⚙️ 3. Regras Gerais
+- ✏️ Todo cadastro pode ser **editado ou excluído**  
+- 🔗 Cada **produto deve estar associado a um fornecedor**  
+- ✅ O sistema mantém **integridade referencial** entre tabelas  
+- 🖼️ Imagens ficam **vinculadas ao produto** e salvas em local apropriado  
+
+---
+
+✨ **Pronto!** Agora você tem um sistema organizado e fácil de usar.  
+
+
 
 
 
