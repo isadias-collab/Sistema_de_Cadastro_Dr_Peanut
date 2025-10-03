@@ -125,20 +125,19 @@ ______________________________________________________________________
 
 _______________________________________________________________
 
-## Banco de Dados
+##🗄️ Banco de Dados
 Desenvolvimento do banco de dados para a Dr. Peanut, com foco na organização e gerenciamento de informações de fornecedores e produtos.
 
 A ideia é estruturar um sistema que permita:
 
-➕ Cadastrar novos fornecedores e produtos;
+-Cadastrar novos fornecedores e produtos;
 
-📝 Editar dados já existentes;
+-Editar dados já existentes;
 
-❌ Excluir registros;
+-Excluir registros
 
-👀 Listar de forma clara os itens e seus vínculos.
-
-Com isso, será possível simular como uma empresa gerencia seu estoque.
+## 🏗️ 2. Estrutura do Sistema
+### Cadastro de Produto
 
 **Campos:**
 - 🆔 `ID (PK)` – Identificador único do produto  
@@ -150,14 +149,7 @@ Com isso, será possível simular como uma empresa gerencia seu estoque.
 - 🖼️ `Imagens` – Arquivos visuais  
 - 🔗 `fornecedor_id (FK)` – Fornecedor responsável  
 
-**Funcionalidades:**
-- ➕ Inclusão  
-- 📝 Edição  
-- ❌ Exclusão  
-
----
-
-### 📋 2.3 Listagem
+### Listagem
 Área de visualização de **fornecedores e produtos**.  
 
 **Campos:**
@@ -169,20 +161,6 @@ Com isso, será possível simular como uma empresa gerencia seu estoque.
 - 🖼️ `Imagens` – Visualização (produto)  
 - 🔗 `produtos_id (FK)` – Relaciona ao produto  
 - 🔗 `fornecedores_id (FK)` – Relaciona ao fornecedor  
-
-**Funcionalidades:**
-- 👀 Exibição de fornecedores e produtos  
-- 📝 Edição  
-- ❌ Exclusão  
-
----
-
-## ⚙️ 3. Regras Gerais
-- ✏️ Todo cadastro pode ser **editado ou excluído**  
-- 🔗 Cada **produto deve estar associado a um fornecedor**  
-- ✅ O sistema mantém **integridade referencial** entre tabelas  
-- 🖼️ Imagens ficam **vinculadas ao produto** e salvas em local apropriado
-
 _____________________________________________
 
 ## 🧠 Aprendizados
