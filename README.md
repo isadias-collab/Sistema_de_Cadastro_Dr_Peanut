@@ -131,11 +131,11 @@ Desenvolvimento do banco de dados para a Dr. Peanut, com foco na organização e
 
 **A ideia é estruturar um sistema que permita:**
 
--Cadastrar novos fornecedores e produtos;
+- Cadastrar novos fornecedores e produtos;
 
--Editar dados já existentes;
+- Editar dados já existentes;
 
--Excluir registros
+- Excluir registros
 
 ## 🏗️ Estrutura do Sistema
 
