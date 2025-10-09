@@ -72,8 +72,8 @@ ______________________________________________________________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Office_Excel_%282019–present%29.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/C/canva-logo-AD613377E9-seeklogo.com.png" alt="Canva" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-excel-1868952-1583125.png" alt="Excel" width="40" height="40"/>
 </p>
 
 **HTML** – Estruturação das páginas da aplicação  
