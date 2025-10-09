@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ## 👨‍💻 Equipe de Desenvolvimento 
 (Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
 
-Responsável por:
+**Responsável por:**
 
 Criar a estrutura e lógica do sistema
 
@@ -57,7 +57,7 @@ ________________________________________________________________________________
 ## 🎨 Equipe de Design 
 (Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
 
-Responsável por:
+**Responsável por:**
 
 Criação da interface visual no Figma
 
@@ -91,9 +91,9 @@ ________________________________________________________________________
 | **Roxo complementar**                 | `#330072`  | `51, 0, 114`     | `98, 100, 22, 13`  |
 
 
-Tipografia: Lalezar
+**Tipografia:** Lalezar
 
-Layout: Layout clean e moderno, com foco em imagens vibrantes dos produtos, seções bem definidas.
+**Layout:** Layout clean e moderno, com foco em imagens vibrantes dos produtos, seções bem definidas.
 
 _______________________________________________________________________
 
@@ -129,7 +129,7 @@ _______________________________________________________________
 
 Desenvolvimento do banco de dados para a Dr. Peanut, com foco na organização e gerenciamento de informações de fornecedores e produtos.
 
-A ideia é estruturar um sistema que permita:
+**A ideia é estruturar um sistema que permita:**
 
 -Cadastrar novos fornecedores e produtos;
 
@@ -140,9 +140,9 @@ A ideia é estruturar um sistema que permita:
 ## 🏗️ Estrutura do Sistema
 
 
-Usuário:
+**Usuário:**
 
-Campos:
+**Campos:**
 
 - 🆔 `ID (PK)` – Identificador único do usuário  
 - 👤 `Nome do Usuário` – Nome do usuário cadastrado  
@@ -151,9 +151,9 @@ Campos:
 - 🔑 `Senha` – Credencial de acesso
 
 
-Cadastro de Fornecedor:
+**Cadastro de Fornecedor:**
 
-Campos:
+**Campos:**
 
 - 🆔 `ID (PK)` – Identificador único do fornecedor  
 - 🏢 `Nome do Fornecedor` – Nome da empresa ou pessoa jurídica  
@@ -165,10 +165,9 @@ Campos:
 - 📝✏️ `Edição e Exclusão` – Permite atualizar e remover fornecedores e produtos vinculados  
 - 👤 `usuario_id (FK)` – Identificação do usuário responsável pelo cadastro  
   
-Cadastro de Produto:
+**Cadastro de Produto:**
 
-
-Campos:
+**Campos:**
 - 🆔 `ID (PK)` – Identificador único do produto  
 - 🏷️ `Nome do Produto` – Nome do item  
 - 🔢 `Código (SKU)` – Código interno  
