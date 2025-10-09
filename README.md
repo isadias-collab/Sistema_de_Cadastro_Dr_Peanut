@@ -99,15 +99,15 @@ _______________________________________________________________________
 
 ## ✅ Critérios de Aceitação
 
-Site totalmente responsivo em dispositivos móveis
+- Site totalmente responsivo em dispositivos móveis
 
-Todas as páginas e seções funcionais com links corretos
+- Todas as páginas e seções funcionais com links corretos
 
-Formulários operando corretamente, com envio de informações por e-mail
+- Formulários operando corretamente, com envio de informações por e-mail
 
-Interface alinhada com o protótipo desenvolvido no Figma
+- Interface alinhada com o protótipo desenvolvido no Figma
 
-Facilidade de navegação e clareza na apresentação dos conteúdos
+- Facilidade de navegação e clareza na apresentação dos conteúdos
 
 ______________________________________________________________________
 
