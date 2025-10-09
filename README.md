@@ -180,7 +180,7 @@ Campos:
 
 _____________________________________________
 
-## Diagrama 
+## 🗂️ Diagrama 
 
 <img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/7b0dad84-0e2b-4a6a-ae4b-41de7191f75b" />
 
