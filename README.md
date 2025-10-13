@@ -44,41 +44,6 @@ ________________________________________________________________________________
 
  ______________________________________________________________
 
-## 👨‍💻 Equipe de Desenvolvimento 
-(Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
-
-**Responsável por:**
-
-Criar a estrutura e lógica do sistema
-
-___________________________________________________________________________________________
-
-## 🎨 Equipe de Design 
-(Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
-
-**Responsável por:**
-
-Criação da interface visual no Figma
-
-Garantia de uma experiência intuitiva e coerente com a identidade da marca
-
-______________________________________________________________________________
-
-## 💻 Tecnologias e Ferramentas Utilizadas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</p>
-
-**HTML** – Estruturação das páginas da aplicação  
-**CSS** – Estilização e responsividade do site  
-**Figma** – Criação do protótipo visual  
-**MySQL** – Banco de dados relacional  
-
-________________________________________________________________________
 
 ## 🎨 Paleta de Cores Oficial — Dr. Peanut
 
@@ -183,6 +148,42 @@ _____________________________________________
 <img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/7b0dad84-0e2b-4a6a-ae4b-41de7191f75b" />
 
 _______________________________________________________________
+
+## 👨‍💻 Equipe de Desenvolvimento 
+(Gustavo Henrique Ferreira Barreto, Leonardo Alves Leão, Pedro de Oliveira)
+
+**Responsável por:**
+
+Criar a estrutura e lógica do sistema
+
+___________________________________________________________________________________________
+
+## 🎨 Equipe de Design 
+(Ana Carolina da Fonseca Souza, Evellyn Silva de Lima, Isabella Dias da Silva)
+
+**Responsável por:**
+
+Criação da interface visual no Figma
+
+Garantia de uma experiência intuitiva e coerente com a identidade da marca
+
+______________________________________________________________________________
+
+## 💻 Tecnologias e Ferramentas Utilizadas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+**HTML** – Estruturação das páginas da aplicação  
+**CSS** – Estilização e responsividade do site  
+**Figma** – Criação do protótipo visual  
+**MySQL** – Banco de dados relacional  
+
+________________________________________________________________________
 
 ## 🧠 Aprendizados
 
